@@ -336,6 +336,9 @@
   .p-10 {
     padding: calc(var(--spacing) * 10);
   }
+  .p-30 {
+    padding: calc(var(--spacing) * 30);
+  }
   .pl-10 {
     padding-left: calc(var(--spacing) * 10);
   }
